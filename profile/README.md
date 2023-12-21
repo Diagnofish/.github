@@ -27,3 +27,8 @@ Let us introduce you to the masterminds behind this project
 ## Get involved
 
 ## Contact Us
+Have questions, ideas, or just want to say hello to us? Reach out through the following channels:
+
+- Email: diagnofish.bangkitacademy@gmail.com
+
+Let's embark on this diagnofish journey together! 🍓🍍🥭✨

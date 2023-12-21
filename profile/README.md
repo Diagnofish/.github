@@ -12,7 +12,7 @@ Our initiative revolves around crafting an Android-centric application tailored 
 ## Why it Matters
 
 ## Meet Our Teams
-Let us introduce you to the masterminds behind this project. Each team member brings their unique expertise, unwavering dedication, and a shared passion for making a real impact.
+Let us introduce you to the masterminds behind this project
 
 | Learning Path                         | Bangkit ID    | GitHub Link                | LinkedIn Link                          |
 |------------------------------|---------------|-----------------------|-----------------------------------|

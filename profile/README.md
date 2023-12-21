@@ -3,7 +3,7 @@
 
 **Here are some ideas to get you started:**
 
-[Diagnofish-Logo]([https://github.com/Diagnofish/.github/assets/83118025/e19f5c1a-d09b-4b01-982e-b939640d2f15](https://github.com/Diagnofish/.github/blob/main/Diagnofish-Logo.png))
+[Diagnofish-Logo]([Diagnofish-Logo.png)
 
 
 🙋‍♀️ A short introduction - what is your organization all about?

@@ -35,6 +35,6 @@ Community cooperation and contributions are greatly appreciated! We'd love to ta
 ## Contact Us
 Have questions, ideas, or just want to say hello to us? Reach out through the following channels:
 
-- Email: diagnofish.bangkitacademy@gmail.com
+- Email: mufidfarhan68@gmail.com
 
 Let's embark on this diagnofish journey together! 

@@ -33,8 +33,6 @@ We have distributed our project development into several different branches of t
 Community cooperation and contributions are greatly appreciated! We'd love to talk to you, whether you're a developer, subject matter expert, or just interested in our projects. Join us as we transform the field of aquaculture and change the world for the better!
 
 ## Contact Us
-Have questions, ideas, or just want to say hello to us? Reach out through the following channels:
-
-- Email: mufidfarhan68@gmail.com
+Have questions, ideas, or just want to say hello to us? 
 
 Let's embark on this diagnofish journey together! 

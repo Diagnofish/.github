@@ -25,10 +25,12 @@ Diagnofish is an intelligent tool designed to help identify fish diseases easily
   </a>
 </p>
 
-🧪 Version: 1.0.0\
-📅 Last Updated: December 2023\
-📂 Format: .apk\
-📱 Platform: Android
+```
+🧪 Version      : 1.0.0
+📅 Last Updated : December 2023
+📂 Format       : .apk
+📱 Platform     : Android
+```
 
 ## 🚧 Service Status
 ⚠️ Important Notice:

@@ -5,11 +5,25 @@
 # CH2-PS505 - Bangkit Academy 2023 Capstone Team Project by Diagnofish
 Greetings! 👋 Welcome to the fantastic world of team CH2-PS505! We're a collective of dedicated individuals embarking on a mission to transform the landscape of aquatic health and fisheries.
 
-## 🐟 Download Diagnofish App
-**Diagnofish** – Diagnose Your Fish Disease\
+## Project Overview
+Our initiative revolves around crafting an Android-centric application tailored for detecting diseases in affected fish. An important aspect of this app involves analyzing images of afflicted fish submitted by users. Leveraging machine learning, the application processes these images to identify the specific disease, offering insights on treatment strategies and preventative measures.
+
+## Why it Matters
+Disease control in fish is one of the important aspects that determine the success of fish farming. Fish diseases are caused by a combination of three factors, namely the condition of the fish, environmental conditions, and the presence of pests. By knowing the types and causes of fish diseases, fish farmers can know how to handle, mitigate, and prevent them appropriately.
+
+## Download Diagnofish App
+🔬 **Diagnofish** – Diagnose Your Fish Disease\
 Diagnofish is an intelligent tool designed to help identify fish diseases easily and accurately. With a simple and intuitive interface, users can upload photos or describe symptoms to receive instant diagnostic results based on the latest aquaculture knowledge.
 
-> [📦 Click here to download the Diagnofish APK](https://github.com/Diagnofish/.github/blob/main/Diagnofish.apk)
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/Diagnofish/.github/blob/main/Diagnofish.apk&size=150x150" alt="Diagnofish APK QR Code">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Diagnofish/.github/blob/main/Diagnofish.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge&logo=android" alt="Download Diagnofish APK">
+  </a>
+</p>
 
 🧪 Version: 1.0.0\
 📅 Last Updated: December 2023\
@@ -23,16 +37,10 @@ Currently, the backend service is **offline**, which means the app cannot be use
 
 We will update this section once the service is active again. Thank you for your patience!
 
-## Project Overview
-Our initiative revolves around crafting an Android-centric application tailored for detecting diseases in affected fish. An important aspect of this app involves analyzing images of afflicted fish submitted by users. Leveraging machine learning, the application processes these images to identify the specific disease, offering insights on treatment strategies and preventative measures.
-
-## Why it Matters
-Disease control in fish is one of the important aspects that determine the success of fish farming. Fish diseases are caused by a combination of three factors, namely the condition of the fish, environmental conditions, and the presence of pests. By knowing the types and causes of fish diseases, fish farmers can know how to handle, mitigate, and prevent them appropriately.
-
 ## Meet Our Teams
 Let us introduce you to the masterminds behind this project
 
-| Learning Path                         | Bangkit ID    | GitHub Link                | LinkedIn Link                          |
+| Learning Path                         | Bangkit ID    | GitHub Profile                | LinkedIn Profile                          |
 |------------------------------|---------------|-----------------------|-----------------------------------|
 | Machine Learning        | M009BSY0804    | [Christian Wijaya](https://github.com/christianwjy15) | [Christian Wijaya](https://www.linkedin.com/in/christian-wijaya-7a0287290)      |
 | Machine Learning             | M120BSY0631    | [Muhammad Fajar Ibrahim](https://github.com/fajaribrahim) | [Fajar Ibrahim](https://www.linkedin.com/in/fajar-ibrahim31/)      |

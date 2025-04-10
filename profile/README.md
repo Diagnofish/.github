@@ -5,6 +5,24 @@
 # CH2-PS505 - Bangkit Academy 2023 Capstone Team Project by Diagnofish
 Greetings! 👋 Welcome to the fantastic world of team CH2-PS505! We're a collective of dedicated individuals embarking on a mission to transform the landscape of aquatic health and fisheries.
 
+## 🐟 Download Diagnofish App
+**Diagnofish** – Diagnose Your Fish Disease\
+Diagnofish is an intelligent tool designed to help identify fish diseases easily and accurately. With a simple and intuitive interface, users can upload photos or describe symptoms to receive instant diagnostic results based on the latest aquaculture knowledge.
+
+> [📦 Click here to download the Diagnofish APK](https://github.com/Diagnofish/.github/blob/main/Diagnofish.apk)
+
+🧪 Version: 1.0.0\
+📅 Last Updated: December 2023\
+📂 Format: .apk\
+📱 Platform: Android
+
+## 🚧 Service Status
+⚠️ Important Notice:
+The Diagnofish app **requires user login** to access its features.
+Currently, the backend service is **offline**, which means the app cannot be used until the service is back online.
+
+We will update this section once the service is active again. Thank you for your patience!
+
 ## Project Overview
 Our initiative revolves around crafting an Android-centric application tailored for detecting diseases in affected fish. An important aspect of this app involves analyzing images of afflicted fish submitted by users. Leveraging machine learning, the application processes these images to identify the specific disease, offering insights on treatment strategies and preventative measures.
 
